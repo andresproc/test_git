@@ -22,4 +22,12 @@ const ventas = [
 
   //map est un méthode qui permet de créer un nouveau tableau à partir d'un tableau existant.
   
+  //map est un méthode qui permet de créer un nouveau tableau à partir d'un tableau existant.
+  
+  //map est un méthode qui permet de créer un nouveau tableau à partir d'un tableau existant.
+  
+  //map est un méthode qui permet de créer un nouveau tableau à partir d'un tableau existant.
+  
+  //map est un méthode qui permet de créer un nouveau tableau à partir d'un tableau existant.
+  
   
